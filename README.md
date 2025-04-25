@@ -1,5 +1,5 @@
 # Car Vibes EDA (88% -> 97%)
-![peter-broomfield-m3m-lnR90uM-unsplash](https://github.com/user-attachments/assets/135fd50f-d302-4daa-8e59-73d9c4bb5b10)
+![peter-broomfield-m3m-lnR90uM-unsplash (1)](https://github.com/user-attachments/assets/1ab258da-c950-455e-b648-dcbc9caa70b3)
 
 Hey everyone,  
 In this repo, I worked on a dataset about cars and tried to predict car prices based on other factors. I focused on understanding the data deeply, finding patterns, exploring variable relationships, and seeing how they affect price.
